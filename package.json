@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "generate-lockfile": "^0.0.12"
+  }
+}
